@@ -1,3 +1,6 @@
+//copyright (c) 2025 Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi
+
+
 #include <BleGamepad.h>
 #include <U8g2lib.h>
 #include <Wire.h>
