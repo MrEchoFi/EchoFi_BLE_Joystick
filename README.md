@@ -1,3 +1,13 @@
+<div align="center">
+
+  <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="200" height="auto" />
+  <h1>EchoFi_BLE_Joystick</h1>
+   
+  <p>
+   Esp32 based joystick
+  </p>
+
+
 # EchoFi_BLE_Joystick
 # videos:
 https://github.com/user-attachments/assets/2c57e91c-9de5-4f7d-a130-1614504734f5
