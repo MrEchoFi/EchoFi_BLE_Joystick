@@ -8,7 +8,7 @@
   </p>
 
 
-# EchoFi_BLE_Joystick
+  📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 # videos:
 https://github.com/user-attachments/assets/2c57e91c-9de5-4f7d-a130-1614504734f5
 
