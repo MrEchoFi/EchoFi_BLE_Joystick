@@ -20,6 +20,8 @@ https://github.com/user-attachments/assets/5e54977b-e49f-47de-897e-68a440d08927
 
 ![EchoFi_BLE_Joystick](https://github.com/user-attachments/assets/f3604810-efd3-488c-8952-867db6db4ae4)
 
+
+
 # Components: Esp32 V1.3, two PS2 joystick module, SSD1306 1.3inch OLED display, two push buttons, jumper wires, divider [optional].
 Note: Battery Voltage Divider (for “battery-life”)
       4.2 V LiPo, use two 100 kΩ in series:
